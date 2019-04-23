@@ -1,9 +1,15 @@
 /*Chrissy Stroud-HW7*/
-/*for some reason my .css is not linking to my index*/
+
 
 body{
-    background-image: linear-gradient(green, grey);
+    background-image: linear-gradient(to right, green, grey);
     color: darkgray;   
+}
+div{
+	width:300px;
+	border: 15px solid green;
+	padding: 50px;
+	margin: 20px;
 }
 
 h1{
