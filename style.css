@@ -1,14 +1,26 @@
 /*Chrissy Stroud-HW7*/
 
+.header{
+	text-align:center;
+	padding: 20px;
+}
+.topnav a{
+	float: left;
+	display: block;
+	color: blue;
+	text-align: center;
+	padding: 14px;
+	text-decoration: none;
 
+}
 body{
-    background-image: linear-gradient(to right, green, grey);
+    background-image: linear-gradient(to right, limegreen, grey);
     color: darkgray;   
 }
 div{
 	width:300px;
-	border: 15px solid green;
-	padding: 50px;
+	border: 15px black;
+	padding: 20px;
 	margin: 20px;
 }
 
