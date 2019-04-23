@@ -1,6 +1,12 @@
 /*Chrissy Stroud-HW7*/
 
 body{
-    background-color: goldenrod;
+    background-color: gray;
     color: darkgray;   
+}
+section{
+	border:solid;
+	border-color:black;
+	border-width:100px;
+	border-height:100px;
 }
