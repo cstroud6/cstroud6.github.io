@@ -1,12 +1,19 @@
 /*Chrissy Stroud-HW7*/
+/*for some reason my .css is not linking to my index*/
 
 body{
-    background-color: gray;
+    background-image: linear-gradient(green, blue);
     color: darkgray;   
 }
 section{
 	border:solid;
 	border-color:black;
-	border-width:100px;
-	border-height:100px;
+	border-width:10px;
+	border-height:10px;
+}
+h1{
+	font-size: 36px;
+}
+a:hover{
+	color:springgreen;
 }
