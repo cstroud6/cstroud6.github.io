@@ -2,15 +2,10 @@
 /*for some reason my .css is not linking to my index*/
 
 body{
-    background-image: linear-gradient(green, blue);
+    background-image: linear-gradient(green, grey);
     color: darkgray;   
 }
-section{
-	border:solid;
-	border-color:black;
-	border-width:10px;
-	border-height:10px;
-}
+
 h1{
 	font-size: 36px;
 }
