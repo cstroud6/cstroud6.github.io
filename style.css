@@ -1,34 +1,27 @@
 /*Chrissy Stroud-HW7*/
 
 header{
+	font-size: 48px;
+	
 	text-align:center;
-	padding: 20px;
-}
-ul{
-	list-style-type: none;
+	padding: 100px;
 	margin: 0;
-	padding: 0;
 }
-li{
-	display: inline;
+nav{
+	background-color:coral;	
 }
-a hover:{
-	display: block;
-	padding: 14px;
-	text-decoration: none;
-	color: springgreen;
+ul a{
+	
+	padding: 10px;
+	color: aquamarine;
+	text-align: center;	
 }
 body{
     margin: 0;
-	background-image: linear-gradient(to right, blue, grey);
-    color: darkgray;   
+	background-image: linear-gradient(to right, black, grey);
+    color: aquamarine;   
 }
-div{
-	width:300px;
-	border: 15px black;
-	padding: 20px;
-	margin: 20px;
-}
+
 
 h1{
 	font-size: 36px;
