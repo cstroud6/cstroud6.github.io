@@ -20,7 +20,7 @@ a hover:{
 }
 body{
     margin: 0;
-	background-image: linear-gradient(to right, navyblue, grey);
+	background-image: linear-gradient(to right, blue, grey);
     color: darkgray;   
 }
 div{
