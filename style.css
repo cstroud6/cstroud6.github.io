@@ -2,24 +2,34 @@
 
 header{
 	font-size: 48px;
+	border-bottom: solid;
 	
 	text-align:center;
-	padding: 100px;
+	padding: 60px;
 	margin: 0;
 }
 nav{
-	background-color:coral;	
+	background-color:coral;
+	
+	display:inline-block;
+	
+	float:left;
+	
 }
 ul a{
+	display:block;
 	
-	padding: 10px;
 	color: aquamarine;
-	text-align: center;	
+		
 }
 body{
     margin: 0;
 	background-image: linear-gradient(to right, black, grey);
     color: aquamarine;   
+}
+div2{
+	padding:5px;
+	float: left;
 }
 
 
